@@ -14,7 +14,8 @@ Local Governments: Local governments are responsible for budgeting and advocatin
 ## Data Source and Sample Data 
 In this project, the data is obtained from the United States government's open data websites for New York City and Los Angeles. We have focused on the “NYPD Arrests Data (Historic)” dataset and the “LA-Crime data from 2020 to present” dataset to make our predictions.
 The first dataset, the NYPD Arrests Data (Historic), provides comprehensive records (6 million rows) of arrests made by the New York City Police Department (NYPD) over a period of 15 years. This also includes information on the specific crimes and crime categories with demographic information about perpetrators.
- 
+
+ ![image](https://github.com/EstellaMei/CrimePredictionAndPrevention/blob/8f39cd28fa5df8a1748aaeb46f6778a1ec5a9170/CrimeDataSnap3.png)
 
 The second dataset, the Crime Data from the Los Angeles Police Department, contains 2 million rows of similar information on crime incidents reported to the LAPD.  
 Together, these two datasets provide a wealth of information that can be used to explore similarities and differences in crime patterns and trends across different regions and investigate how social and demographic factors influence criminal behavior and the criminal justice system. Once the data is grouped areawise, we will combine the data with the US census and health information from the city Open Data website to gain additional insights.
