@@ -1,6 +1,6 @@
 # CrimePredictionAndPrevention
 
-# Machine Learning II - Project Proposal - Predicting Crime in LA 
+# Machine Learning II - Project Proposal - Predicting Crime in LA & NY
 ## Team 20 - Bukrinsky, Jaju, Kalha, Mei, Singh
 
 ## Business Problem
